@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "homework\Task1.csproj", "{EDE5AD8E-F25B-41C3-8163-CB49CD0ADB83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{1635B53C-08CF-4E36-BE0B-EC51C52D6FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{722D661F-6C1E-431B-B9BB-AE2842004100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE5AD8E-F25B-41C3-8163-CB49CD0ADB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE5AD8E-F25B-41C3-8163-CB49CD0ADB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE5AD8E-F25B-41C3-8163-CB49CD0ADB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE5AD8E-F25B-41C3-8163-CB49CD0ADB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1635B53C-08CF-4E36-BE0B-EC51C52D6FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1635B53C-08CF-4E36-BE0B-EC51C52D6FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1635B53C-08CF-4E36-BE0B-EC51C52D6FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1635B53C-08CF-4E36-BE0B-EC51C52D6FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722D661F-6C1E-431B-B9BB-AE2842004100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D661F-6C1E-431B-B9BB-AE2842004100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D661F-6C1E-431B-B9BB-AE2842004100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D661F-6C1E-431B-B9BB-AE2842004100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B231837-AA4F-46DF-AE33-D3B3420C245C}
+	EndGlobalSection
+EndGlobal
